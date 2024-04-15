@@ -24,8 +24,10 @@ PigeonTechGroup 是一个专注于开发 Minecraft 的 Slimefun 插件的附属�
 
 ---
 
-## 关于软件语言
+## 关于软件语言 About Software Language
 所有中文软件不一定有英文，但所有英文软件必须一定有中文版！
+
+All Chinese software may not necessarily have an English version, but all English software must have a Chinese version!
 
 ---
 
